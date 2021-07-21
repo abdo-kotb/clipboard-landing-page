@@ -105,6 +105,9 @@ button:last-child {
   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
   transform: scale(1.1);
 }
+.access {
+  padding-bottom: 0;
+}
 .tools img {
   margin-bottom: 4rem;
 }
